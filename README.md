@@ -1,10 +1,12 @@
-# Todo App
+# Todo App 📃
 
 ## Overview
 
 This project is a Django application that includes user accounts and a to-do list feature. It is structured to follow best practices in organizing Django applications.
 
-## Directory Structure
+## Directory Structure📁
+The repository is organized as follows:
+```
 core/
 ├── accounts/
 │ ├── admin.py
@@ -38,3 +40,4 @@ core/
 ├── tests.py
 ├── urls.py
 └── views.py
+```
