@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Django application that includes user accounts and a to-do list feature. It is structured to follow best practices in organizing Django applications.
+This project is a To-Do Application developed with Django Rest Framework.
 
 ## Directory Structure📁
 The repository is organized as follows:
